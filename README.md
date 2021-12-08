@@ -10,4 +10,3 @@ Just in-case if you want to set it up i already give the instructions, you can r
 # Step 7: Select the "index.html" and the "style.css" and open it.
 # Step 8: Then save it (Ctrl + S).
 # STep 9: Go to your File Explorer and run the "index.html"
-# Step 10: And... your Done! =D
